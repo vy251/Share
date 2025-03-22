@@ -17,7 +17,6 @@
 .top{
     display:flex;
     justify-content: space-evenly;
-    width:1400px;
 }
 .first{
     height:250px;
